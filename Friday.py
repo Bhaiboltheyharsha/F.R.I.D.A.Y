@@ -80,7 +80,6 @@ def wish():
 
 # to news api
 
-
 def news():
     # paste your key in the dash
     main_url = "http://newsapi.org/v2/top-headlines?sources=techcrunch&apiKey=___________________"
